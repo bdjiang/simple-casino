@@ -1,6 +1,4 @@
 //Brandon Jiang
-//gagdude@brandeis.edu
-//11/29/16
 //To create a casino where one can play simple war or blackjack
 //No bugs
 
