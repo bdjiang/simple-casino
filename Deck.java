@@ -32,7 +32,7 @@ public class Deck {
     }
     shuffle();
   }
-  //This shuffle method was taken from the suggestion in the PA.pdf
+  //This shuffle method is Fisher-Yates
   public void shuffle() {
     for(int i = 51; i > 0; i--) {
       int j = (int)(Math.random()*(i+1));
