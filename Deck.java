@@ -1,6 +1,4 @@
 //Brandon Jiang
-//gagdude@brandeis.edu
-//11/29/16
 //To create a deck class managing the deck object
 //No bugs
 
