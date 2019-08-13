@@ -1,7 +1,5 @@
 //Brandon Jiang
 //gagdude@brandeis.edu
-//11/29/16
-//To create a card class managing the card object
 //No bugs
 
 //No comments because most of this is self-explanatory
