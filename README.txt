@@ -1,5 +1,6 @@
-For this PA, I pretty much followed the basic directions for making the Card and Deck class.
-The Card class is self explanatory; in the Deck class I used the shuffle method from the Wiki article.
+A simple text based casino game with betting.
+
+The Card class is self explanatory; in the Deck class I used the Fisher-Yates shuffle method.
 
 In the Casino class, I tried to be as user friendly as possible. I made sure everything was explained,
 and that everything that was happening in the game was being updated for the user to see.
